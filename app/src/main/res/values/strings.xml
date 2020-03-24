@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MarsRobot</string>
+    <string name="invalid_values_grid">Invalid values for grid</string>
+    <string name="invalid_initial_robot_values">Invalid initial values for the robot</string>
+</resources>
